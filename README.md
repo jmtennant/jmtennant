@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Tennant, I'm currently a Computer Science student at North Carolina State University
 - 👀 I’m interested in Artificial Intelligence, Biologically-Inspired Algorithms, Machine Learning, and NP Solvability
-- 🌱 I’m currently learning C, Introductory Artificial Intelligence, Linear Algebra, and Human Factors Psychology
+- 🌱 I’m currently learning Software Engineering, Automated Learning & Data Analysis, and Deep Learning
 - 💞️ I’m looking to collaborate on AI/ML algorithms, as well as puzzle-solving algorithms.
 - 📫 How to reach me: email via jmtennant543@gmail.com
 - 😄 Pronouns: he/him/his
